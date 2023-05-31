@@ -9,7 +9,10 @@ Transform Company Project
 
 디자인 변경
 1. 메인 대시보드 화면 변경
+2. CSS 변경
+
 
 구조 변경
 1. Nuxt의 Module 활용 변경
-2. Component 구조 변경
+2. Component 구조 변경(프로젝트 Directory 구조 변경)
+3. Chart Library 변경(현재 Amchart 사용중)
